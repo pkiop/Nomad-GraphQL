@@ -11,6 +11,8 @@ GraphQL yoga + Apollo-boost
 서버 쪽 다 해둔 것 : Yoga
 FE쪽 다 해둔 것 : Apollo boost
 
+** Apollo boost 는 이제 잘 지원 안하는 듯. 설정 찾아보며 직접하는게 
+
 ## Cache 
 
 Awesome! 
